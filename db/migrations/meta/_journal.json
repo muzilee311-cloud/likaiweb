@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1782981608632,
+      "tag": "0000_add_uploads_table",
+      "breakpoints": true
+    }
+  ]
+}
